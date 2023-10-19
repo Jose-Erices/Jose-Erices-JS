@@ -1,4 +1,4 @@
-//Primera Entrega Js "Jose Erices Gonzalez"
+//Primera Entrega Js"
 
 let validarIngreso = true;
 
